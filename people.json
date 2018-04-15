@@ -1,0 +1,25 @@
+{
+      "people":[
+            
+            {
+                  "name":"Sam",
+                  "age":30,
+                  "occupation":"Front end Developer"
+            },
+            {
+                  "name":"Tharun",
+                  "age":24,
+                  "occupation":"Magento Developer"
+            },
+            {
+                  "name":"Jithin",
+                  "age":27,
+                  "occupation":"Software Developer"
+            },
+            {
+                  "name":"Anvin",
+                  "age":26,
+                  "occupation":"Django Developer"
+            }
+      ]
+}
